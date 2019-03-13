@@ -1,7 +1,8 @@
-package com.kenniston.android.firebaseapp
+package com.kenniston.android.firebaseapp.activities
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
+import com.kenniston.android.firebaseapp.R
 
 class MainActivity : AppCompatActivity() {
 

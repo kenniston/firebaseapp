@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Firebase App</string>
+
+    <!-- Login Activity -->
+    <string name="login_title_1">Welcome to </string>
+    <string name="login_title_2">Firebase App</string>
+    <string name="other_login_title">Or fill in correctly</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="forgot_password_2">CAN WE HELP?</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="signup">DO NOT HAVE AN ACCOUNT?</string>
+    <string name="signup_2">CREATE ONE NOW!</string>
+
+    <string name="signin_waiting">Loading. Please wait...</string>
+    <string name="login_username_required">E-mail required!</string>
+    <string name="auth_failed">Invalid E-mail or Password!</string>
+    <string name="password_required">Password required!</string>
+    <string name="loading_text">Loading...</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+
+
+
 </resources>
